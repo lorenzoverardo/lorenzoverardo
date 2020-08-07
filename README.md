@@ -32,7 +32,7 @@
 
 ### My Most Used Languages on GitHub
 
-<img align="left" alt="lorenzoverardo's Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoverardo&layout=compact&theme=dark&hide_title=yes" />
+<img align="left" alt="lorenzoverardo's Github Languages Stats" src="https://github-readme-stats.lorenzoverardo.vercel.app/api/top-langs/?username=lorenzoverardo&layout=compact&theme=dark&hide_title=yes" />
 
 [website]: https://lorenzoverardo.me
 [linkedin]: https://www.linkedin.com/in/lorenzoverardo/
