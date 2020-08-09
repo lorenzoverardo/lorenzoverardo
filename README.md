@@ -28,11 +28,11 @@
 
 <br />
 
----
-
 ### My Most Used Languages on GitHub
 
-<img align="left" alt="lorenzoverardo's Github Languages Stats" src="https://github-readme-stats.lorenzoverardo.vercel.app/api/top-langs/?username=lorenzoverardo&layout=compact&theme=dark&hide_title=yes" />
+![lorenzoverardo's Github Languages Stats](https://github-readme-stats.lorenzoverardo.vercel.app/api/top-langs/?username=lorenzoverardo&layout=compact&theme=dark&hide_title=yes)
+
+[![HitCount](http://hits.dwyl.com/lorenzoverardo/lorenzoverardo.svg)](http://hits.dwyl.com/lorenzoverardo/lorenzoverardo)
 
 [website]: https://lorenzoverardo.me
 [linkedin]: https://www.linkedin.com/in/lorenzoverardo/
