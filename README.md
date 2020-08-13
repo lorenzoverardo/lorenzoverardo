@@ -47,7 +47,9 @@
 <a href="https://lorenzoverardo.me"><img src="https://img.shields.io/badge/-lorenzoverardo.me-364B71?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lorenzoverardo/"><img src="https://img.shields.io/badge/-Lorenzo%20Verardo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lorenzo.verardo@outlook.it"><img src="https://img.shields.io/badge/-lorenzo.verardo@outlook.it-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white"/></a>
-<img align="right" src="https://lorenzoverardo-visitor-badge.glitch.me/badge?page_id=lorenzoverardo.lorenzoverardo"/>
+<img align="right" src="https://views.whatilearened.today/views/github/lorenzoverardo/lorenzoverardo.svg"/>
+<!--<img align="right" src="https://lorenzoverardo-visitor-badge.glitch.me/badge?page_id=lorenzoverardo.lorenzoverardo"/>-->
+<!--<img align="right" src="http://hits.dwyl.com/lorenzoverardo/lorenzoverardo.svg"/>-->
 
 <!--
 **lorenzoverardo/lorenzoverardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
