@@ -34,13 +34,11 @@
 <!--
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.lorenzoverardo.vercel.app/api?username=lorenzoverardo&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.lorenzoverardo.vercel.app/api/top-langs/?username=lorenzoverardo&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzoverardo&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoverardo&layout=compact&theme=dark" />
 </a>
 </p>
 -->
-
-![lorenzoverardo's Github Languages Stats](https://github-readme-stats.lorenzoverardo.vercel.app/api/top-langs/?username=lorenzoverardo&layout=compact&theme=dark)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
