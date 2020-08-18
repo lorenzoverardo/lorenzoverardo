@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on personal projects
-- 🌱 &nbsp; I’m currently learning Node.js
+- 🌱 &nbsp; I’m currently learning React and Gatsby
 - 👯 &nbsp; I’m looking to collaborate on something new, hit me up 📫
 - ⚡ &nbsp; Fun fact: I have visited 9 countries 🌍
 - 🕶️ &nbsp; Tip: Do youself a favour and get a <a href="https://github.com/darkreader/darkreader">dark reader</a>
@@ -48,7 +48,6 @@
 <a href="https://linkedin.com/in/lorenzoverardo/"><img src="https://img.shields.io/badge/-Lorenzo%20Verardo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lorenzo.verardo@outlook.it"><img src="https://img.shields.io/badge/-lorenzo.verardo@outlook.it-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white"/></a>
 <img align="right" src="https://views.whatilearened.today/views/github/lorenzoverardo/lorenzoverardo.svg"/>
-<!--<img align="right" src="https://lorenzoverardo-visitor-badge.glitch.me/badge?page_id=lorenzoverardo.lorenzoverardo"/>-->
 <!--<img align="right" src="http://hits.dwyl.com/lorenzoverardo/lorenzoverardo.svg"/>-->
 
 <!--
