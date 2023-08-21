@@ -1,12 +1,6 @@
-# Hey there, I'm Lorenzo 👋
+# Hey there!
 
 <img src="https://i.giphy.com/media/ASd0Ukj0y3qMM/giphy.webp" />
-
-## 👨🏻‍💻 &nbsp;About Me
-
-Thanks for stopping by!\
-I used to try and update this space with some random facts about me but I'm currently in my final year at university so I'll most likely be busy studying and working on projects.\
-I'm always open to hear about cool ideas though, so feel free to reach out to me using the links below if you think we could collaborate on exciting stuff!
 
 <!--
 <p align="center">
@@ -17,7 +11,7 @@ I'm always open to hear about cool ideas though, so feel free to reach out to me
 </p>
 -->
 
-## 🤝🏻 &nbsp;Connect with me
+## Connect with me
 
 <a href="https://lorenzoverardo.me"><img src="https://img.shields.io/badge/-lorenzoverardo.me-364B71?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lorenzoverardo/"><img src="https://img.shields.io/badge/-Lorenzo%20Verardo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -25,9 +19,8 @@ I'm always open to hear about cool ideas though, so feel free to reach out to me
 <!--<img align="right" src="https://views.whatilearened.today/views/github/lorenzoverardo/lorenzoverardo.svg"/>-->
 <!--<img align="right" src="http://hits.dwyl.com/lorenzoverardo/lorenzoverardo.svg"/>-->
 
-## 😆 &nbsp;Random Joke
-
-<p>&nbsp;Feel free to refresh the page if you think that the current joke sucks 😏</p>
+## Random joke, because why not
+<p>&nbsp;Feel free to refresh the page if the current joke sucks ¯\_(ツ)_/¯</p>
 <a href="https://readme-jokes.lorenzoverardo.vercel.app"><img src="https://readme-jokes.lorenzoverardo.vercel.app/api" alt="Readme Joke"></a>
 
 <!--
